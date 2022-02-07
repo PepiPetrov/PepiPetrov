@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Pordkrepi.bg Website. This is a charity platform. It is built with JavaScript, TypeScript, Next.js, NestJS and Prisma.
+
 <!--
 **PepiPetrov/PepiPetrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
