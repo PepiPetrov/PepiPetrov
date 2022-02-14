@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning Artificial Intelligence with Tensorflow, PyTorch, scikit-learn.
 
+💻 Programming skills: JavaScript, TypeScript, Angular, React.js, Next.js, Nest.js, Docker, Wordpress, PHP, Symfony.
+
 ⚡ Fun fact: I am only 11-years old! :)
 
 My resume: [Petar's Resume.pdf](https://github.com/PepiPetrov/PepiPetrov/files/8058920/Petar.s.Resume.pdf)
