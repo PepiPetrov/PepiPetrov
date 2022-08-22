@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Pordkrepi.bg Website. This is a charity platform. It is built with JavaScript, TypeScript, Next.js, NestJS and Prisma.
+🌱 I’m currently learning Data Science.
 
-🌱 I’m currently learning Artificial Intelligence with Tensorflow, PyTorch, scikit-learn.
+🔭 I was working on Pordkrepi.bg Website. This is a charity platform. It is built with JavaScript, TypeScript, Next.js, NestJS and Prisma.
 
-💻 Programming skills: JavaScript, TypeScript, Angular, React.js, Next.js, Nest.js, Docker, Wordpress, PHP, Symfony.
+🌱 I’m currently learning Artificial Intelligence with Tensorflow, PyTorch.
+
+💻 Programming skills: JavaScript, TypeScript, Angular, React.js, Next.js, Nest.js, Docker, Wordpress, PHP, Symfony, Python, numpy, scikit-learn, pandas.
 
 ⚡ Fun fact: I am only 11-years old! :)
 
-My resume: [Petar's Resume.pdf](https://github.com/PepiPetrov/PepiPetrov/files/8058920/Petar.s.Resume.pdf)
+My resume: [Petar's Resume.pdf](https://github.com/PepiPetrov/PepiPetrov/files/9395555/Petar.s.Resume.pdf)
 
 <!--
 **PepiPetrov/PepiPetrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
