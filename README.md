@@ -8,7 +8,7 @@
 
 💻 Programming skills: JavaScript, TypeScript, Angular, React.js, Next.js, Nest.js, Docker, Wordpress, PHP, Symfony, Python, numpy, scikit-learn, pandas.
 
-⚡ Fun fact: I am only 11-years old! :)
+⚡ Fun fact: I am only 12-years old! :)
 
 My resume: [Petar's Resume.pdf](https://github.com/PepiPetrov/PepiPetrov/files/9395555/Petar.s.Resume.pdf)
 
