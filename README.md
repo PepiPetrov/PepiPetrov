@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Data Science.
 
-🔭 I was working on Pordkrepi.bg Website. This is a charity platform. It is built with JavaScript, TypeScript, Next.js, NestJS and Prisma.
+🔭 I was working on Pordkrepi.bg Website (GitHub: [https://github.com/podkrepi-bg](https://github.com/podkrepi-bg)). This is a charity platform. It is built with JavaScript, TypeScript, Next.js, NestJS and Prisma.
 
 🌱 I’m currently learning Artificial Intelligence with Tensorflow, PyTorch.
 
