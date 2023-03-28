@@ -8,7 +8,7 @@
 
 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/petar-petrov-0b8219230/, Facebook: https://www.facebook.com/pepi.ppetrov, Email: pepi_petrov@outlook.com
 
-⚡ Fun fact: I am only 12-years old! :)
+⚡ Fun fact: I am only 13 years old! :)
 
 My resume: [Petar's Resume.pdf](https://github.com/PepiPetrov/PepiPetrov/files/11090964/Petar.s.Resume.pdf)
 
