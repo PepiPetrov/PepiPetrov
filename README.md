@@ -12,7 +12,8 @@
 
 ⚡ Fun fact: I am only 12-years old! :)
 
-My resume: [Petar's Resume.pdf](https://github.com/PepiPetrov/PepiPetrov/files/10219522/Petar.s.Resume.pdf)
+My resume: [Petar's Resume.pdf](https://github.com/PepiPetrov/PepiPetrov/files/11090964/Petar.s.Resume.pdf)
+
 
 <!--
 **PepiPetrov/PepiPetrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
