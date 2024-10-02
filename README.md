@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning DevOps.
 
-🔭 I was working on Pordkrepi.bg Website (GitHub: [https://github.com/podkrepi-bg](https://github.com/podkrepi-bg)). This is a charity platform. It is built with JavaScript, TypeScript, Next.js, NestJS and Prisma.
+🔭 I was working on Pordkrepi.bg (GitHub: [https://github.com/podkrepi-bg](https://github.com/podkrepi-bg)), a charity platform, built with TypeScript, Next.js, NestJS and Prisma.
 
 💻 Programming skills: JavaScript, TypeScript, Angular, React.js, Next.js, Nest.js, Docker, Wordpress, PHP, Symfony, Python, numpy, scikit-learn, pandas, TensorFlow.
 
