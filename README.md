@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning DevOps.
+🌱 I’m currently learning C++.
 
 🔭 I was working on Pordkrepi.bg (GitHub: [https://github.com/podkrepi-bg](https://github.com/podkrepi-bg)), a charity platform, built with TypeScript, Next.js, NestJS and Prisma.
 
