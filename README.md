@@ -4,7 +4,7 @@
 
 🔭 I was working on Pordkrepi.bg (GitHub: [https://github.com/podkrepi-bg](https://github.com/podkrepi-bg)), a charity platform, built with TypeScript, Next.js, NestJS and Prisma.
 
-💻 Programming skills: JavaScript, TypeScript, Angular, React.js, Next.js, Nest.js, Docker, Wordpress, PHP, Symfony, Python, numpy, scikit-learn, pandas, TensorFlow.
+💻 Programming skills: JavaScript, TypeScript, Angular, React.js, Next.js, Nest.js, Docker, Wordpress, PHP, Python, numpy, scikit-learn, pandas, TensorFlow.
 
 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/petar-petrov-0b8219230/, Facebook: https://www.facebook.com/pepi.ppetrov, Email: pepi_petrov@outlook.com
 
